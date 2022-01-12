@@ -10,3 +10,6 @@ This output should again be a DIMACS file, but containing only the truth assignm
 Your SAT solver should implement at least three different strategies: the DPLL algorithm without any further heuristics, plus two different heuristics of your choice. These can be some of the heuristics discussed in the lectures, or any other heuristic you can find in the literature (or that you make up yourself, for that matter). Points will be awarded for how sophisticated the strategies are that you choose to implement, but you must implement two different strategies as well as the basic DP algorithm itself.
 
 Of course, your SAT solver must be fully general, in the sense that it is an algorithm to solve not only Sudoku's formulated in SAT, but any SAT problem (at least in principle, given enough time and memory).
+
+
+The SAT Solver has been developed in Python for the course Knowledge Representation.
