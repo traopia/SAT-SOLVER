@@ -1,8 +1,6 @@
 # SAT-SOLVER
 The challenge is to write a SAT solver, and then use it to solve Sudoku problems.
-Writing a SAT solver for Sudoku's requires that you
-
-write a SAT solver that can read DIMACS input. See the slides from the first lecture on propositional logic, or here (Links to an external site.); the "p" line will help you to more easily read your input file. 
+Writing a SAT solver for Sudoku's requires that you write a SAT solver that can read DIMACS input. See the slides from the first lecture on propositional logic, or here (Links to an external site.); the "p" line will help you to more easily read your input file. 
 encode the Sudoku rules as clauses in DIMACS format. You get these for free here. (Links to an external site.)
 Suggestion: make sure you understand what the different lines of this file mean. You will need this later. 
 encode a given puzzle in DIMACS format. Some examples of puzzle in DIMACS is here as well.
